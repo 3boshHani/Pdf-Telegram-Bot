@@ -1,0 +1,16 @@
+{
+  "name": "telegram-pdf-bot",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jspdf": "^2.5.1",
+    "telegraf": "^4.16.3"
+  }
+}
